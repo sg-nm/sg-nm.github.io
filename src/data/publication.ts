@@ -14,6 +14,15 @@ export interface Publication {
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
+    year: "2025",
+    conference: "ICML",
+    title: "Self-Supervised Learning of Intertwined Content and Positional Features for Object Detection",
+    authors: "Kang-Jun Liu, Masanori Suganuma, Takayuki Okatani",
+    //paperUrl: "https://arxiv.org/abs/2302.13095",
+    //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    //imageUrl: "/images/SBCFormer.png"
+  },
+  {
     year: "2024",
     conference: "IEEE Transactions on Intelligent Vehicles",
     title: "Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
