@@ -23,6 +23,15 @@ export const publicationData: Publication[] = [
     //imageUrl: "/images/SBCFormer.png"
   },
   {
+    year: "2025",
+    conference: "IJCAI",
+    title: "MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval",
+    authors: "Naoya Sogi, Takashi Shibata, Makoto Terao, Masanori Suganuma, Takayuki Okatani",
+    //paperUrl: "https://arxiv.org/abs/2302.13095",
+    //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    //imageUrl: "/images/SBCFormer.png"
+  },
+  {
     year: "2024",
     conference: "IEEE Transactions on Intelligent Vehicles",
     title: "Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
