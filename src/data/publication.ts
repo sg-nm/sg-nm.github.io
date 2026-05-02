@@ -47,6 +47,38 @@ export const publicationData: Publication[] = [
     //imageUrl: "/images/SBCFormer.png"
   },
   {
+    year: "2025",
+    conference: "IEEE Transactions on Visualization and Computer Graphics",
+    title: "Rp-slam: Real-time photorealistic slam with efficient 3d gaussian splatting",
+    authors: "Lizhi Bai, Chunqi Tian, Jun Yang, Siyu Zhang, Masanori Suganuma, Takayuki Okatani",
+    paperUrl: "https://ieeexplore.ieee.org/abstract/document/11186139",
+    //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    //imageUrl: "/images/SBCFormer.png"
+  },
+  {
+    year: "2025",
+    conference: "Computer‐Aided Civil and Infrastructure Engineering",
+    title: "Multimodal artificial intelligence approaches using large language models for expert‐level landslide image analysis",
+    authors: "Kittitouch Areerob, Van‐Quang Nguyen, Xianfeng Li, Shogo Inadomi, Toru Shimada, Hiroyuki Kanasaki, Zhijie Wang, Masanori Suganuma, Keiji Nagatani, Pang‐jo Chun, Takayuki Okatani",
+    //paperUrl: "https://ieeexplore.ieee.org/abstract/document/11186139",
+    //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    //imageUrl: "/images/SBCFormer.png"
+  },
+  {
+    year: "2025",
+    conference: "CVPR Workshops",
+    title: "TB-Bench: Training and testing multi-modal ai for understanding spatio-temporal traffic behaviors from dashcam images/videos",
+    authors: "Korawat Charoenpitaks, Van-Quang Nguyen, Masanori Suganuma, Kentaro Arai, Seiji Totsuka, Hiroshi Ino, Takayuki Okatani",
+    paperUrl: "https://arxiv.org/pdf/2501.05733",
+  },
+  {
+    year: "2025",
+    conference: "WACV",
+    title: "Inverting the generation process of denoising diffusion implicit models: Empirical evaluation and a novel method",
+    authors: "Yan Zeng, Masanori Suganuma, Takayuki Okatani",
+    paperUrl: "https://openaccess.thecvf.com/content/WACV2025/papers/Zeng_Inverting_the_Generation_Process_of_Denoising_Diffusion_Implicit_Models_Empirical_WACV_2025_paper.pdf",
+  },
+  {
     year: "2024",
     conference: "IEEE Transactions on Intelligent Vehicles",
     title: "Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
